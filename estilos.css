@@ -1,0 +1,78 @@
+
+body, html{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%
+	position: relative;
+}
+
+.log{
+	border: 1px solid #85C1E9;
+	border-radius: 5px;
+	padding: 18px;
+	width: 300px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.log a {
+	font-family: sans-serif;
+	text-decoration: none;
+
+}
+.btn{
+	background-color: #2E86C1;
+}
+
+input[ type="text"],
+input[ type="password"]{
+	font-size: 15px;
+	width: 85%;
+	padding: 15px;
+	
+	border: 1px solid #85C1E9;
+	border-radius: 5px;
+}
+
+input[type="submit"]{
+	font-size: 15px;
+	width: 95%;
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid #85C1E9;
+	border-radius: 5px;
+
+}
+
+.contenido a{
+	font-family: sans-serif;
+}
+.dir{
+	font-size: 15px;
+	width: 15%;
+	padding: 15px;
+	
+	border: 1px solid #85C1E9;
+	border-radius: 5px;
+}
+
+.pract{
+	border: 1px solid #85C1E9;
+	border-radius: 5px;
+	padding: 18px;
+	width: 100%;
+
+}
+.contenido a {
+	font-family: sans-serif;
+	text-decoration: none;
+
+}
+/*
+	bd name: users;
+	nombre: jornat  ////
+	clave :  Jnm298910{}[]
+*/
